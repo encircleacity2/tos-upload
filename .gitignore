@@ -1,0 +1,6 @@
+tos_credentials.json
+__MACOSX/
+*.pyc
+__pycache__/
+.DS_Store
+*.checkpoint
